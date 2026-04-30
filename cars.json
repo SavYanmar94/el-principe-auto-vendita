@@ -1,0 +1,66 @@
+[
+    {
+        "modello": "Lancia Delta 1.6 MJT DPF S Oro",
+        "prezzo": "5.500 €",
+        "chilometraggio": "+ 150.000 km - 159.999 km",
+        "anno": "2011",
+        "link_annuncio": "https://www.subito.it/auto/lancia-delta-1-6-mjt-dpf-s-oro-bari-645055005.htm",
+        "link_immagine": "https://images.sbito.it/api/v1/sbt-ads-images-pro/images/90/9098b4ef-a487-488e-b18a-3c087684279a?rule=bigthumbs-auto"
+    },
+    {
+        "modello": "Audi Q3 2.0 TDI 150 CV quattro S tronic edition Sp",
+        "prezzo": "14.500 €",
+        "chilometraggio": "+ 190.000 km - 199.999 km",
+        "anno": "2016",
+        "link_annuncio": "https://www.subito.it/auto/audi-q3-2-0-tdi-150-cv-quattro-s-tronic-edition-sp-bari-644877124.htm",
+        "link_immagine": "https://images.sbito.it/api/v1/sbt-ads-images-pro/images/25/25e50513-539f-4caf-9c09-0224e2789500?rule=bigthumbs-auto"
+    },
+    {
+        "modello": "Citroen C1 1.0 5 porte Seduction",
+        "prezzo": "5.500 €",
+        "chilometraggio": "+ 110.000 km - 119.999 km",
+        "anno": "2012",
+        "link_annuncio": "https://www.subito.it/auto/citroen-c1-1-0-5-porte-seduction-bari-644870587.htm",
+        "link_immagine": "https://images.sbito.it/api/v1/sbt-ads-images-pro/images/86/860e6abb-15be-46de-abc7-8034db476b38?rule=bigthumbs-auto"
+    },
+    {
+        "modello": "Opel Astra 1.4 Turbo 140CV 5 porte GPL Tech Cosmo",
+        "prezzo": "6.500 €",
+        "chilometraggio": "+ 150.000 km - 159.999 km",
+        "anno": "2015",
+        "link_annuncio": "https://www.subito.it/auto/opel-astra-1-4-turbo-140cv-5-porte-gpl-tech-cosmo-bari-644479824.htm",
+        "link_immagine": "https://images.sbito.it/api/v1/sbt-ads-images-pro/images/82/822dc603-1e7d-496a-bca2-95cb3e127bd2?rule=bigthumbs-auto"
+    },
+    {
+        "modello": "Alfa Romeo Giulietta 1.6 JTDm-2 120 CV Progression",
+        "prezzo": "8.900 €",
+        "chilometraggio": "+ 150.000 km - 159.999 km",
+        "anno": "2016",
+        "link_annuncio": "https://www.subito.it/auto/alfa-romeo-giulietta-1-6-jtdm-2-120-cv-progression-bari-642608133.htm",
+        "link_immagine": "https://images.sbito.it/api/v1/sbt-ads-images-pro/images/fa/faf691f1-b89c-4036-9168-3f395b28c364?rule=bigthumbs-auto"
+    },
+    {
+        "modello": "Mercedes-benz A 180 d Premium",
+        "prezzo": "13.900 €",
+        "chilometraggio": "+ 170.000 km - 179.999 km",
+        "anno": "2018",
+        "link_annuncio": "https://www.subito.it/auto/mercedes-benz-a-180-d-premium-bari-641450379.htm",
+        "link_immagine": "https://images.sbito.it/api/v1/sbt-ads-images-pro/images/52/52fa2606-a613-4dc8-bc52-2a399eb0975d?rule=bigthumbs-auto"
+    },
+    {
+        "modello": "Peugeot 3008 BlueHDi 130 S&S Allure",
+        "prezzo": "15.900 €",
+        "chilometraggio": "+ 140.000 km - 149.999 km",
+        "anno": "2019",
+        "link_annuncio": "https://www.subito.it/auto/peugeot-3008-bluehdi-130-s-s-allure-bari-641347905.htm",
+        "link_immagine": "https://images.sbito.it/api/v1/sbt-ads-images-pro/images/32/324871c4-4627-4021-a3a0-2eee8538f617?rule=bigthumbs-auto"
+    },
+    {
+        "modello": "Peugeot 3008 BlueHDi 130 S&S Allure",
+        "prezzo": "15.900 €",
+        "chilometraggio": "+ 140.000 km - 149.999 km",
+        "anno": "2019",
+        "link_annuncio": "https://www.subito.it/auto/peugeot-3008-bluehdi-130-s-s-allure-bari-634899845.htm",
+        "link_immagine": "https://images.sbito.it/api/v1/sbt-ads-images-pro/images/23/231ab67d-e811-40f1-9176-a11eeb432dbd?rule=bigthumbs-auto"
+    }
+]
